@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+body {
+
+font-family: Arial, sans-serif;
+padding: 20px;
+
+}
+
+.container {
+
+margin-bottom: 20px;
+
+}
+
+.answer {
+
+margin-left: 10px;
+font-weight: bold;
+
+}
